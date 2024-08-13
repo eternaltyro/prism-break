@@ -1,0 +1,373 @@
+[
+  {
+    "description": "Enterprise class computing platform with 100% binary compatbility with RHEL.",
+    "slug": "centos",
+    "url": "https://www.centos.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/CentOS"
+  },
+  {
+    "description": "OMEMO or OTR encrypted IM for iOS.",
+    "slug": "chatsecure",
+    "url": "https://chatsecure.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Guardian_Project_(software)#ChatSecure"
+  },
+  {
+    "description": "Cjdns is a networking protocol, a system of digital rules for message exchange between computers. “Instead of letting other computers connect to you through a shared IP address which anyone can use, cjdns only lets computers talk to one other after they have verified each other cryptographically. ",
+    "slug": "cjdns",
+    "url": "https://github.com/cjdelisle/cjdns",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cjdns"
+  },
+  {
+    "description": "Conversations is an open source XMPP/Jabber client for Android 4.0+ smart phones.",
+    "slug": "conversations",
+    "url": "https://github.com/siacs/Conversations",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "Self-hosted, zero-knowledge, real-time collaborative documents.",
+    "notes": "Encryption carried out in your web browser protects the data from the server, the cloud, and the NSA. The secret encryption key is stored in the URL fragment identifier which is never sent to the server but is available to javascript, so by sharing the URL, you give authorization to others who want to participate. Users must still take care to share links over an end-to-end-encrypted medium for best effect.",
+    "slug": "cryptpad",
+    "url": "https://cryptpad.fr",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "Distribuição GNU/Linux livre famosa por suas posições éticas.",
+    "slug": "debian",
+    "url": "http://debian.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Debian"
+  },
+  {
+    "description": "Protege contra monitorização através de entrega de conteúdo centralizado. Previne pedidos de chegar a redes como Google Hosted Libraries e serve ficheiros locais para que os sites não quebrem. Complementa bloqueadores de conteúdo regulares.",
+    "notes": "- Protege a privacidade ao evitar grandes redes de entrega que dizem oferecer serviços gratuitos.\n- Complementa bloqueadores regulares como o uBlock Origin, Privacy Badger, et al.\n- Funciona diretamente fora da caixa; absolutamente nenhuma configuração prévia necessária.\n\nDecentraleyes não é nenhuma bala de prata, mas previne muitos sites de fazê-lo enviar estes tipos de pedidos. Por fim, também pode fazer com que o Decentraleyes bloqueie pedidos para quaisquer recursos CDN ausentes.",
+    "slug": "decentraleyes",
+    "url": "https://decentraleyes.org",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "Rede social distribuída, mantida pela comunidade.",
+    "slug": "diaspora",
+    "url": "https://diasporafoundation.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Diaspora_%28software%29"
+  },
+  {
+    "description": "A tool to secure communications between a client and a DNS resolver.",
+    "slug": "dnscrypt",
+    "url": "https://dnscrypt.info",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "Pesquisas anônimas, sem histórico salvo.",
+    "notes": "DuckDuckGo is a software-as-a-service (SaaS) hosted around the world that provides you with anonymous search results from [these sources](https://help.duckduckgo.com/results/sources). DDG open source components are [available here](https://github.com/duckduckgo).\n\nThere is also a DuckDuckGo hidden service at [3g2upl4pq6kufc4m.onion](http://3g2upl4pq6kufc4m.onion) for Tor users.",
+    "slug": "duckduckgo",
+    "url": "https://duckduckgo.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/DuckDuckGo"
+  },
+  {
+    "description": "Uma extensão OpenPGP para Thunderbird/Icedove.",
+    "notes": "[Here is a guide](https://securityinabox.org/en/guide/thunderbird/linux/) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail. Also read the [Email Self-Defense guide](https://emailselfdefense.fsf.org) by the Free Software Foundation to learn how to encrypt your email messages.",
+    "slug": "enigmail",
+    "url": "https://www.enigmail.net/home/index.php",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Enigmail"
+  },
+  {
+    "description": "Servidor de planilhas multi-usuário.",
+    "notes": "The EtherCalc online service encrypts your data transmission with HTTPS, but data may be read by anyone who can guess the URL. Download and run your own EtherCalc server if you care about privacy.",
+    "slug": "ethercalc",
+    "url": "http://ethercalc.net/",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "Aplicativos para Android de código livre e aberto.",
+    "slug": "f-droid",
+    "url": "https://f-droid.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/F-Droid"
+  },
+  {
+    "description": "Distribuição GNU/Linux rápida e estável.",
+    "slug": "fedora",
+    "url": "https://fedoraproject.org/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Fedora_%28distribuci%C3%B3n_Linux%29"
+  },
+  {
+    "description": "A free BSD-derived operating system.",
+    "slug": "freebsd",
+    "url": "https://www.freebsd.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/FreeBSD"
+  },
+  {
+    "description": "FreedomBox integrates privacy protection on a cheap plug server so everybody can have privacy.",
+    "slug": "freedombox",
+    "url": "https://www.freedomboxfoundation.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/FreedomBox"
+  },
+  {
+    "description": "A non-commercial open grassroots initiative to support free radio networks around the world.",
+    "slug": "freifunk",
+    "url": "http://wiki.freifunk.net/Kategorie:English",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Freifunk"
+  },
+  {
+    "description": "Servidor de social web, livre e de código aberto.",
+    "slug": "friendica",
+    "url": "http://friendica.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Friendica"
+  },
+  {
+    "description": "Sincroniza pastas em cada uns dos seus computadores e discos.",
+    "slug": "git-annex",
+    "url": "https://git-annex.branchable.com/",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "Self hosted git server.",
+    "slug": "gitlab",
+    "url": "https://about.gitlab.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/GitLab"
+  },
+  {
+    "description": "Open, free and neutral wireless network for everyone.",
+    "slug": "guifinet",
+    "url": "https://guifi.net/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guifi.net"
+  },
+  {
+    "description": "Criptografa suas comunicações em milhões de sites.",
+    "slug": "https-everywhere",
+    "url": "https://www.eff.org/https-everywhere",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/HTTPS_Everywhere"
+  },
+  {
+    "description": "Hubzilla is a powerful platform for creating interconnected websites (hubs) featuring a decentralized identity, communications, and permissions framework built using common webserver technology.",
+    "slug": "hubzilla",
+    "url": "http://hubzilla.org/",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "Projeto internet invisível.",
+    "slug": "i2p",
+    "url": "https://geti2p.net/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/I2P"
+  },
+  {
+    "description": "Open source email app for Android with PGP support.",
+    "slug": "k-9-mail",
+    "url": "https://github.com/k9mail/k-9",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/K-9_Mail"
+  },
+  {
+    "description": "Application for people with extremely high demands on secure personal data management. Saves many different types of information such as usernames, passwords, urls, attachments and comments in one single database.",
+    "slug": "keepassxc",
+    "url": "https://keepassxc.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/KeePassXC"
+  },
+  {
+    "description": "Criptografia OpenPGP para webmail.",
+    "slug": "mailvelope",
+    "url": "http://www.mailvelope.com/",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "Monero is a secure, private, untraceable P2P currency.",
+    "notes": "Please note that new, digital currencies may be volatile. Complete loss of your investment is possible for a number of reasons (software errors or attacks, identity theft, etc.). Be prepared!",
+    "slug": "monero",
+    "url": "https://getmonero.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monero_(cryptocurrency)"
+  },
+  {
+    "description": "Servidor de rede social privado e descentralizado.",
+    "slug": "movim",
+    "url": "https://movim.eu/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Movim"
+  },
+  {
+    "description": "Navegador web de código aberto.",
+    "slug": "mozilla-firefox"
+  },
+  {
+    "description": "Aplicativo de email de código livre.",
+    "notes": "Thunderbird does not encrypt your email by default. [Here is a guide](https://securityinabox.org/en/guide/thunderbird/linux/) by Security In A Box to encrypting your email with Mozilla Thunderbird, GNU Privacy Guard (GPG), and Enigmail.\n\nThunderbird can optionally connect over Tor with the TorBirdy addon.\n\nWhile Thunderbird can be used as a chat and IRC client, it does not offer encrypted messaging.",
+    "slug": "mozilla-thunderbird",
+    "url": "https://www.mozilla.org/en-US/thunderbird/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mozilla_Thunderbird"
+  },
+  {
+    "description": "Bate-papo de voz criptografado de baixa-latência.",
+    "slug": "mumble",
+    "url": "http://www.mumble.info/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mumble_%28software%29"
+  },
+  {
+    "description": "DNS distribuído baseado na tecnologia do Bitcon.",
+    "slug": "namecoin",
+    "url": "https://namecoin.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Namecoin"
+  },
+  {
+    "description": "Habilite apenas JavaScript, Java e Flash em sites que você confia.",
+    "slug": "noscript",
+    "url": "http://noscript.net/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/NoScript"
+  },
+  {
+    "description": "A free dynamic DNS service. Use it to update an easy DNS name with your changing/hard-to-remember IP address. As we use the standard protocols, we support a lot of routers / update clients and we even actively help you to configure them. We care for your security, privacy and comfort. You can simply use the free service available on our homepage or, if you prefer, you can also run the software on your own server.",
+    "slug": "nsupdate-info",
+    "url": "https://nsupdate.info/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nsupdate"
+  },
+  {
+    "description": "Surf the web through the Tor network with this open source browser for iOS devices.",
+    "slug": "onion-browser",
+    "url": "https://mike.tig.as/onionbrowser/",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "OpenKeychain is an OpenPGP implementation for Android.",
+    "slug": "open-keychain",
+    "url": "https://www.openkeychain.org/",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "A secure BSD operating system.",
+    "slug": "openbsd",
+    "url": "http://openbsd.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/OpenBSD"
+  },
+  {
+    "description": "Mapa mundial livre e colaborativo.",
+    "slug": "openstreetmap",
+    "url": "http://www.openstreetmap.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/OpenStreetMap"
+  },
+  {
+    "description": "A GNU/Linux distribution for embedded devices.",
+    "slug": "openwrt",
+    "url": "https://openwrt.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/OpenWrt"
+  },
+  {
+    "description": "Proxy Tor para Android.",
+    "slug": "orbot",
+    "url": "https://guardianproject.info/apps/orbot/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Orbot"
+  },
+  {
+    "description": "OsmAnd (OSM Automated Navigation Directions) is a map and navigation app that uses OpenStreetMap data.",
+    "slug": "osmand",
+    "url": "http://osmand.net/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/OsmAnd"
+  },
+  {
+    "description": "Tracking blocker that tries to learn who is spying on you and then blocks these ads and invisible trackers.",
+    "notes": "Privacy Badger may be less effective than a classic blacklist based solution such as uBlock or Disconnect. Advertisers can automatically unblock themselves by claiming not to track you.",
+    "slug": "privacy-badger",
+    "url": "https://www.eff.org/privacybadger",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Privacy_Badger"
+  },
+  {
+    "description": "Multi-platform IM client for power users with built-in OTR support.",
+    "slug": "psi",
+    "url": "http://psi-plus.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Psi_%28instant_messaging_client%29"
+  },
+  {
+    "description": "Servidor de streaming de hospedagem própria.",
+    "slug": "pumpio",
+    "url": "http://pump.io/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pump.io"
+  },
+  {
+    "description": "Plataforma de comunicação P2P livre e segura.",
+    "notes": "Note that RetroShare has not been thoroughly audited by security professionals for possible security issues.\n\nFor those of you without a server, RetroShare is probably the easiest way to start your own encrypted social network.",
+    "slug": "retroshare",
+    "url": "http://retroshare.cc",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/RetroShare"
+  },
+  {
+    "description": "Ring is a secure and distributed voice, video and chat communication platform that requires no centralized server and leaves the power of privacy in the hands of the user.",
+    "slug": "ring",
+    "url": "https://ring.cx/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ring_(software)"
+  },
+  {
+    "description": "Contas de email seguras e privadas.",
+    "notes": "Riseup's services may also be accessed via their Tor Hidden Service addresses. A list is [available here](https://www.riseup.net/en/tor#riseups-tor-hidden-services).",
+    "slug": "riseup",
+    "url": "https://riseup.net/en",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "The personal, minimalist, super-fast, database free, bookmarking service.",
+    "slug": "shaarli",
+    "url": "https://github.com/shaarli/Shaarli/",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "A fork of TextSecure with SMS encryption.",
+    "slug": "silence",
+    "url": "https://silence.im/",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "Continuous decentralized file synchronization.",
+    "notes": "Syncthing is a self-hosted file sharing platform, so none of your data is ever stored anywhere other than on your computers. There is no central server that might be compromised, legally or illegally. All communication is secured using TLS. The encryption used includes perfect forward secrecy to prevent any eavesdropper from gaining access to your data. Every node is identified by a strong cryptographic certificate. Only nodes you have explicitly allowed can connect to your cluster.",
+    "slug": "syncthing",
+    "url": "https://syncthing.net/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Syncthing"
+  },
+  {
+    "description": "Sistema de armazenamento web livre e aberto.",
+    "slug": "tahoe-lafs",
+    "url": "https://tahoe-lafs.org/trac/tahoe-lafs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tahoe-LAFS"
+  },
+  {
+    "description": "Live CD/USB criado com privacidade em mente.",
+    "slug": "tails",
+    "url": "https://tails.boum.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Amnesic_Incognito_Live_System"
+  },
+  {
+    "description": "Free software daemon that uses tunnelling and encryption to create a secure private network",
+    "slug": "tinc",
+    "url": "http://tinc-vpn.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tinc_%28protocol%29"
+  },
+  {
+    "description": "Tor (previously TOR, an acronym for The Onion Router)[not in citation given] is free software for enabling online anonymity. Tor directs Internet traffic through a free, worldwide, volunteer network consisting of more than four thousand relays to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity, including “visits to Web sites, online posts, instant messages, and other communication forms”, back to the user and is intended to protect the personal privacy of users, as well as their freedom and ability to conduct confidential business by keeping their internet activities from being monitored.",
+    "slug": "tor",
+    "url": "https://www.torproject.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29"
+  },
+  {
+    "description": "Navegação criptografada e anônima.",
+    "slug": "tor-browser",
+    "url": "https://www.torproject.org/projects/torbrowser.html.en",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tor_Browser"
+  },
+  {
+    "description": "Add-on that makes Thunderbird/Icedove connect through Tor.",
+    "notes": " TorBirdy is in beta and should be considered experimental. Please make sure that before using it, you are aware of the known issues and leaks by reading the “Before using TorBirdy” and “Known TorBirdy” Issues sections on the project website.",
+    "slug": "torbirdy",
+    "url": "https://trac.torproject.org/projects/tor/wiki/torbirdy",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "An efficient blocker for Firefox and Chromium. Fast and lean.",
+    "slug": "ublock-origin",
+    "url": "https://github.com/gorhill/uBlock",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/UBlock#uBlock_Origin"
+  },
+  {
+    "description": "Client-side encrypted image host web server.",
+    "notes": "Up1 is a simple host that client-side encrypts images, text, and other data, and stores them, with the server knowing nothing about the contents. It has the ability to view images, text with syntax highlighting, short videos, and arbitrary binaries as downloadables.",
+    "slug": "up1",
+    "url": "https://github.com/Upload/Up1/blob/master/README.md",
+    "wikipedia_url": ""
+  },
+  {
+    "description": "wallabag is a self hostable application for saving web pages. Unlike other services, wallabag is free (as in freedom) and open source.",
+    "slug": "wallabag",
+    "url": "https://www.wallabag.org/",
+    "wikipedia_url": ""
+  }
+]

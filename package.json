@@ -1,11 +1,20 @@
 {
-  "name": "prism-break",
-  "version": "0.1.0",
+  "dependencies": {
+    "http-server": "0.11.1",
+    "livescript": "1.5.0",
+    "lodash.assign": "4.2.0",
+    "lodash.isequal": "4.5.0",
+    "marked": "^0.7.0",
+    "mkdirp": "0.5.1",
+    "moment": "2.22.2",
+    "nib": "1.1.2",
+    "prelude-ls": "1.1.2",
+    "pug": "2.0.3",
+    "stylus": "0.54.5"
+  },
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-uglify": "~0.2.2",
-    "grunt-contrib-stylus": "~0.5.1",
-    "grunt-contrib-concat": "~0.3.0",
-    "grunt-contrib-watch": "~0.4.4"
-  }
+    "jsonlint2": "^1.7.0"
+  },
+  "license": "GPL-3.0",
+  "repository": "gitlab:prism-break/prism-break"
 }
